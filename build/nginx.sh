@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-nginx
+service nginx start
